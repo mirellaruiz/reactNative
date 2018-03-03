@@ -1,0 +1,11 @@
+María Ortega Pérez
+Mirella Ruiz Muñoz
+Plataforma: ANDROID
+MEJORAS:
+- Navegación con StackNavigator
+- Almacenamiento con AsyncStorage:
+En cuanto a los botones de la lista de visitas:
+Si se se pulsa Remove, borramos la lista del almacenamiento con asyncstorage,
+pero la pantalla solo se queda sin visitas en el caso de que anteriormente se 
+estuvieran viendo las almacenadas de este modo, si estaban viendo las descargadas
+solo se verá que no hay visitas almacenadas pulsando Stored.
